@@ -1,0 +1,60 @@
+body {
+    font-family: 'Montserrat', sans-serif ;
+    font-weight: 300;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+p {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+a.link-button {
+    background: black;
+    margin: 0;
+    margin-right: 1rem;
+    padding: 1rem;
+    color: white;
+    animation-duration: 100ms;
+}
+a.link-button:hover {
+    background: darkorange;
+}
+.page-heading {
+    text-align: center;
+    color: white;
+    background: black;
+    padding: 5rem;
+}
+.table-head-row {
+    padding: 10px 5px;
+    text-align: left;
+    background: black;
+    color: white;
+}
+.separator {
+    padding: 10px 0px;
+    text-align: center;
+    background: black;
+    color: white;
+    font-weight: 400;
+}
+.member-name {
+    font-weight: 400;
+}
+th {
+    font-size: 1.2rem;
+    text-align: left;
+    padding: 5px;
+}
+.contestant-row {
+    background: lightgrey;
+}
+td {
+    text-align: left;
+    padding: 15px 10px;
+}
+li {
+    list-style-type: circle;
+}
