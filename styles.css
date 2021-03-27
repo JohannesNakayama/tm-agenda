@@ -50,13 +50,7 @@ th {
     text-align: left;
     padding: 5px;
 }
-.contestant-row {
-    background: lightgrey;
-}
 td {
     text-align: left;
     padding: 15px 10px;
-}
-li {
-    list-style-type: circle;
 }
